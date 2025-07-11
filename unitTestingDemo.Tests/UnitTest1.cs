@@ -43,7 +43,7 @@ public class DivideAndIseven
         // Assert
         Assert.Equal(-5, result);
     }
-
+//   اختبار دالة الزوجية
 
 [Fact]
 public void IsEven_EvenNumber_ReturnsTrue()
@@ -81,5 +81,3 @@ public void IsEven_Zero_ReturnsTrue()
 
 }
 
-
-// وظيفة باقي لاختبارات
